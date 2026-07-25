@@ -1,0 +1,7 @@
+zone,region,primary_train_line,population_band,risk_notes
+Dadar,South-Central,Central,high,major interchange
+Bandra,Western Suburbs,Western,high,coastal flooding risk
+Andheri,Western Suburbs,Western,very_high,high commuter volume
+Kurla,Central Suburbs,Central,very_high,low-lying areas
+Thane,Extended Central,Central,high,long-distance commuter hub
+Borivali,Western Suburbs,Western,high,not present in delay sample

@@ -1,0 +1,22 @@
+date,zone,rainfall_mm,recorded_at,source_file
+2026-07-20,Dadar,92,2026-07-20 09:00:00,imd_station_batch_01.csv
+2026-07-20,Bandra,-5,2026-07-20 09:00:00,imd_station_batch_01.csv
+2026-07-20,Andheri,108,2026-07-20 09:00:00,imd_station_batch_01.csv
+2026-07-20,Kurla,121,2026-07-20 09:00:00,imd_station_batch_01.csv
+2026-07-20,Thane,84,2026-07-20 09:00:00,imd_station_batch_01.csv
+2026-07-21,Dadar,65,2026-07-21 09:00:00,imd_station_batch_02.csv
+2026-07-21,Bandra,74,2026-07-21 09:00:00,imd_station_batch_02.csv
+2026-07-21,Andheri,130,2026-07-21 09:00:00,imd_station_batch_02.csv
+2026-07-21,,118,2026-07-21 09:00:00,imd_station_batch_02.csv
+2026-07-21,Thane,95,2026-07-21 09:00:00,imd_station_batch_02.csv
+2026-07-22,Dadar,48,2026-07-22 09:00:00,imd_station_batch_03.csv
+2026-07-22,Bandra,51,2026-07-22 09:00:00,imd_station_batch_03.csv
+2026-07-22,Andheri,77,2026-07-22 09:00:00,imd_station_batch_03.csv
+2026-07-22,Kurla,89,2026-07-22 09:00:00,imd_station_batch_03.csv
+2026-07-22,Thane,69,2026-07-22 09:00:00,imd_station_batch_03.csv
+2026-07-23,Dadar,112,2026-07-23 09:00:00,imd_station_batch_04.csv
+2026-07-23,Bandra,104,2026-07-23 09:00:00,imd_station_batch_04.csv
+2026-07-23,Andheri,146,2026-07-23 09:00:00,imd_station_batch_04.csv
+2026-07-23,Kurla,158,2026-07-23 09:00:00,imd_station_batch_04.csv
+2026-07-23,Thane,119,2026-07-23 09:00:00,imd_station_batch_04.csv
+2026-07-23,Andheri,146,2026-07-23 09:00:00,imd_station_batch_04.csv

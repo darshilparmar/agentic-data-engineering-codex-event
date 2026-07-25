@@ -1,0 +1,22 @@
+date,zone,train_line,scheduled_trips,delayed_trips,avg_delay_minutes,reason
+2026-07-20,Dadar,Central,220,64,24,waterlogging
+2026-07-20,Bandra,Western,210,42,18,signal issue
+2026-07-20,Andheri,Western,240,82,34,heavy rain
+2026-07-20,Kurla,Central,230,96,42,waterlogging
+2026-07-20,Thane,Central,260,68,26,track congestion
+2026-07-21,Dadar,Central,220,38,16,minor delay
+2026-07-21,Bandra,Western,210,47,20,heavy rain
+2026-07-21,Andheri,Western,240,92,39,heavy rain
+2026-07-21,Kurla,Central,230,88,37,waterlogging
+2026-07-21,Thane,Central,260,71,28,track congestion
+2026-07-22,Dadar,Central,220,24,11,minor delay
+2026-07-22,Bandra,Western,210,21,9,minor delay
+2026-07-22,Andheri,Western,240,46,19,signal issue
+2026-07-22,Kurla,Central,230,52,23,track congestion
+2026-07-22,Thane,Central,260,39,15,minor delay
+2026-07-23,Dadar,Central,220,79,31,heavy rain
+2026-07-23,Bandra,Western,210,74,29,heavy rain
+2026-07-23,Andheri,Western,240,116,47,waterlogging
+2026-07-23,Kurla,Central,230,128,53,waterlogging
+2026-07-23,Thane,Central,260,91,-12,manual entry error
+2026-07-23,Kurla,Central,230,128,53,waterlogging
